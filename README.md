@@ -1,4 +1,4 @@
-Hi there, I'm Daniel! 
+Hi there, I'm Daniel! 👋
 
 IT Engineer teaching myself how to code
 
